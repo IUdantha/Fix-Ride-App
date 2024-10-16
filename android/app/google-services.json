@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946543578141",
+    "project_id": "fixride-5cc40",
+    "storage_bucket": "fixride-5cc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946543578141:android:767a9620b4f72372d7caf4",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4YrJl3YJo6hoYv41WE8ZDW1DcuJzxaeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
